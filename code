@@ -1,4 +1,4 @@
-ر#include <USI_TWI_Master.h>
+#include <USI_TWI_Master.h>
 #include <TinyWireM.h>
 #include <LiquidCrystal_I2C.h>
 #include <TinyDHT.h>
